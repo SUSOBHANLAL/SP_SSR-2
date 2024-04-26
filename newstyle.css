@@ -1858,6 +1858,7 @@ p {
 }
 
 .firstlavel label {
+   margin-left: 12px;
   font-size: 20px;
   font-weight: 400;
   color: #01080f;
@@ -1868,6 +1869,7 @@ p {
 }
 
 .secondlabel label {
+   margin-left: 12px;
   font-size: 20px;
   font-weight: 400;
   color: #01080f;
