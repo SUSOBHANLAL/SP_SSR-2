@@ -1831,11 +1831,9 @@ p {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 .imagecardtext {
-  font-style: oblique 40deg;
   font-family: "Times New Roman";
   font-weight: 400;
   font-size: 20px;
-  font-family: "Times New Roman";
 }
 
 #boxdesign {
@@ -1858,7 +1856,7 @@ p {
 }
 
 .firstlavel label {
-   margin-left: 12px;
+  margin-left: 12px;
   font-size: 20px;
   font-weight: 400;
   color: #01080f;
@@ -1869,7 +1867,7 @@ p {
 }
 
 .secondlabel label {
-   margin-left: 12px;
+  margin-left: 12px;
   font-size: 20px;
   font-weight: 400;
   color: #01080f;
@@ -2085,7 +2083,7 @@ p {
     margin-bottom: 1%;
   }
   .mainheader {
-    margin-left: 25%;
+    margin-left: 16%;
   }
   .mainsection {
     background-color: linear-gradient(to bottom, #3494e6, #ec6ead);
@@ -2095,7 +2093,7 @@ p {
 
   #m1 {
     display: flex;
-    width: 94%;
+    width: 95%;
     background-color: #6eb9ec;
     padding-left: 3%;
     padding-right: 2%;
@@ -2109,7 +2107,7 @@ p {
 
   #m2 {
     display: flex;
-    width: 94%;
+    width: 95%;
     background-color: #53b1c6;
     padding-left: 3%;
     padding-right: 2%;
@@ -2123,7 +2121,7 @@ p {
 
   #m3 {
     display: flex;
-    width: 94%;
+    width: 95%;
     background-color: #53b1c6;
     padding-left: 3%;
     padding-right: 2%;
@@ -2136,7 +2134,7 @@ p {
   }
   #m4 {
     display: flex;
-    width: 94%;
+    width: 95%;
     background-color: #53b1c6;
     padding-left: 3%;
     padding-right: 2%;
@@ -2150,7 +2148,7 @@ p {
 
   #m21 {
     display: flex;
-    width: 94%;
+    width: 95%;
     background-color: #6eb9ec;
     padding-left: 3%;
     padding-right: 2%;
@@ -2165,7 +2163,7 @@ p {
 
   #m22 {
     display: flex;
-    width: 94%;
+    width: 95%;
     background-color: #53b1c6;
     padding-left: 3%;
     padding-right: 2%;
@@ -2180,7 +2178,7 @@ p {
 
   #m23 {
     display: flex;
-    width: 94%;
+    width: 95%;
     background-color: #53b1c6;
     padding-left: 3%;
     padding-right: 2%;
@@ -2194,8 +2192,8 @@ p {
   }
   #m24 {
     display: flex;
-    width: 94%;
-    background-color: #193362;
+    width: 95%;
+    background-color: #6eb9ec;
     padding-left: 3%;
     padding-right: 2%;
     padding-top: 2%;
@@ -2209,7 +2207,7 @@ p {
 
   #m31 {
     display: flex;
-    width: 94%;
+    width: 95%;
     background-color: #6eb9ec;
     padding-left: 3%;
     padding-right: 2%;
@@ -2223,7 +2221,7 @@ p {
 
   #m32 {
     display: flex;
-    width: 94%;
+    width: 95%;
     background-color: #53b1c6;
     padding-left: 3%;
     padding-right: 2%;
@@ -2237,7 +2235,7 @@ p {
 
   #m33 {
     display: flex;
-    width: 94%;
+    width: 95%;
     background-color: #53b1c6;
     padding-left: 3%;
     padding-right: 2%;
@@ -2250,7 +2248,7 @@ p {
   }
   #m34 {
     display: flex;
-    width: 94%;
+    width: 95%;
     background-color: #53b1c6;
     padding-left: 3%;
     padding-right: 2%;
@@ -2264,7 +2262,7 @@ p {
 
   #m41 {
     display: flex;
-    width: 94%;
+    width: 95%;
     background-color: #6eb9ec;
     padding-left: 3%;
     padding-right: 2%;
@@ -2278,7 +2276,7 @@ p {
 
   #m42 {
     display: flex;
-    width: 94%;
+    width: 95%;
     background-color: #53b1c6;
     padding-left: 3%;
     padding-right: 2%;
@@ -2292,7 +2290,7 @@ p {
 
   #m43 {
     display: flex;
-    width: 94%;
+    width: 95%;
     background-color: #53b1c6;
     padding-left: 3%;
     padding-right: 2%;
@@ -2305,7 +2303,7 @@ p {
   }
   #m44 {
     display: flex;
-    width: 94%;
+    width: 95%;
     background-color: #53b1c6;
     padding-left: 3%;
     padding-right: 2%;
@@ -2319,7 +2317,7 @@ p {
 
   #m51 {
     display: flex;
-    width: 94%;
+    width: 95%;
     background-color: #6eb9ec;
     padding-left: 3%;
     padding-right: 2%;
@@ -2333,7 +2331,7 @@ p {
 
   #m52 {
     display: flex;
-    width: 94%;
+    width: 95%;
     background-color: #53b1c6;
     padding-left: 3%;
     padding-right: 2%;
@@ -2347,7 +2345,7 @@ p {
 
   #m53 {
     display: flex;
-    width: 94%;
+    width: 95%;
     background-color: #53b1c6;
     padding-left: 3%;
     padding-right: 2%;
@@ -2360,7 +2358,7 @@ p {
   }
   #m54 {
     display: flex;
-    width: 94%;
+    width: 95%;
     background-color: #53b1c6;
     padding-left: 3%;
     padding-right: 2%;
@@ -2374,7 +2372,7 @@ p {
 
   #m55 {
     display: flex;
-    width: 94%;
+    width: 95%;
     background-color: #53b1c6;
     padding-left: 3%;
     padding-right: 2%;
@@ -2387,7 +2385,7 @@ p {
   }
   #m56 {
     display: flex;
-    width: 94%;
+    width: 95%;
     background-color: #53b1c6;
     padding-left: 3%;
     padding-right: 2%;
@@ -2401,7 +2399,7 @@ p {
 
   #m61 {
     display: flex;
-    width: 94%;
+    width: 95%;
     background-color: #6eb9ec;
     padding-left: 3%;
     padding-right: 2%;
@@ -2415,7 +2413,7 @@ p {
 
   #m62 {
     display: flex;
-    width: 94%;
+    width: 95%;
     background-color: #53b1c6;
     padding-left: 3%;
     padding-right: 2%;
@@ -2429,7 +2427,7 @@ p {
 
   #m63 {
     display: flex;
-    width: 94%;
+    width: 95%;
     background-color: #53b1c6;
     padding-left: 3%;
     padding-right: 2%;
@@ -2442,7 +2440,7 @@ p {
   }
   #m64 {
     display: flex;
-    width: 94%;
+    width: 95%;
     background-color: #53b1c6;
     padding-left: 3%;
     padding-right: 2%;
@@ -2456,7 +2454,7 @@ p {
 
   #r1 {
     display: flex;
-    width: 94%;
+    width: 95%;
     background-color: #6eb9ec;
     padding-left: 3%;
     padding-right: 2%;
@@ -2470,7 +2468,7 @@ p {
 
   #r2 {
     display: flex;
-    width: 94%;
+    width: 95%;
     background-color: #53b1c6;
     padding-left: 3%;
     padding-right: 2%;
@@ -2484,7 +2482,7 @@ p {
 
   #r3 {
     display: flex;
-    width: 94%;
+    width: 95%;
     background-color: #53b1c6;
     padding-left: 3%;
     padding-right: 2%;
@@ -2497,7 +2495,7 @@ p {
   }
   #r4 {
     display: flex;
-    width: 94%;
+    width: 95%;
     background-color: #53b1c6;
     padding-left: 3%;
     padding-right: 2%;
@@ -2511,7 +2509,7 @@ p {
 
   #r21 {
     display: flex;
-    width: 94%;
+    width: 95%;
     background-color: #6eb9ec;
     padding-left: 3%;
     padding-right: 2%;
@@ -2525,7 +2523,7 @@ p {
 
   #r22 {
     display: flex;
-    width: 94%;
+    width: 95%;
     background-color: #53b1c6;
     padding-left: 3%;
     padding-right: 2%;
@@ -2539,7 +2537,7 @@ p {
 
   #r23 {
     display: flex;
-    width: 94%;
+    width: 95%;
     background-color: #53b1c6;
     padding-left: 3%;
     padding-right: 2%;
@@ -2552,7 +2550,7 @@ p {
   }
   #r24 {
     display: flex;
-    width: 94%;
+    width: 95%;
     background-color: #53b1c6;
     padding-left: 3%;
     padding-right: 2%;
@@ -2566,7 +2564,7 @@ p {
 
   #r31 {
     display: flex;
-    width: 94%;
+    width: 95%;
     background-color: #6eb9ec;
     padding-left: 3%;
     padding-right: 2%;
@@ -2580,7 +2578,7 @@ p {
 
   #r32 {
     display: flex;
-    width: 94%;
+    width: 95%;
     background-color: #53b1c6;
     padding-left: 3%;
     padding-right: 2%;
@@ -2594,7 +2592,7 @@ p {
 
   #r33 {
     display: flex;
-    width: 94%;
+    width: 95%;
     background-color: #53b1c6;
     padding-left: 3%;
     padding-right: 2%;
@@ -2607,7 +2605,7 @@ p {
   }
   #r34 {
     display: flex;
-    width: 94%;
+    width: 95%;
     background-color: #53b1c6;
     padding-left: 3%;
     padding-right: 2%;
@@ -2621,7 +2619,7 @@ p {
 
   #r41 {
     display: flex;
-    width: 94%;
+    width: 95%;
     background-color: #6eb9ec;
     padding-left: 3%;
     padding-right: 2%;
@@ -2635,7 +2633,7 @@ p {
 
   #r42 {
     display: flex;
-    width: 94%;
+    width: 95%;
     background-color: #53b1c6;
     padding-left: 3%;
     padding-right: 2%;
@@ -2649,7 +2647,7 @@ p {
 
   #r43 {
     display: flex;
-    width: 94%;
+    width: 95%;
     background-color: #53b1c6;
     padding-left: 3%;
     padding-right: 2%;
@@ -2662,7 +2660,7 @@ p {
   }
   #r44 {
     display: flex;
-    width: 94%;
+    width: 95%;
     background-color: #53b1c6;
     padding-left: 3%;
     padding-right: 2%;
@@ -2675,7 +2673,7 @@ p {
   }
   #r51 {
     display: flex;
-    width: 94%;
+    width: 95%;
     background-color: #6eb9ec;
     padding-left: 3%;
     padding-right: 2%;
@@ -2689,7 +2687,7 @@ p {
 
   #r52 {
     display: flex;
-    width: 94%;
+    width: 95%;
     background-color: #53b1c6;
     padding-left: 3%;
     padding-right: 2%;
@@ -2703,7 +2701,7 @@ p {
 
   #r53 {
     display: flex;
-    width: 94%;
+    width: 95%;
     background-color: #53b1c6;
     padding-left: 3%;
     padding-right: 2%;
@@ -2716,7 +2714,7 @@ p {
   }
   #r54 {
     display: flex;
-    width: 94%;
+    width: 95%;
     background-color: #53b1c6;
     padding-left: 3%;
     padding-right: 2%;
@@ -2730,7 +2728,7 @@ p {
 
   #r61 {
     display: flex;
-    width: 94%;
+    width: 95%;
     background-color: #53b1c6;
     padding-left: 3%;
     padding-right: 2%;
@@ -2744,7 +2742,7 @@ p {
 
   #r62 {
     display: flex;
-    width: 94%;
+    width: 95%;
     background-color: #53b1c6;
     padding-left: 3%;
     padding-right: 2%;
@@ -2758,7 +2756,7 @@ p {
 
   #r63 {
     display: flex;
-    width: 94%;
+    width: 95%;
     background-color: #53b1c6;
     padding-left: 3%;
     padding-right: 2%;
@@ -2771,7 +2769,7 @@ p {
   }
   #r64 {
     display: flex;
-    width: 94%;
+    width: 95%;
     background-color: #53b1c6;
     padding-left: 3%;
     padding-right: 2%;
